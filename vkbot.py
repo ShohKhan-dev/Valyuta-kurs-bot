@@ -15,7 +15,7 @@ data.append(usz)
 name = [n['title'] for n in data]
 
 
-bot = telebot.TeleBot(token = '1616823598:AAFAW1TluZerp4JQ3PQsDJtnbgqSbjyeg6I')
+bot = telebot.TeleBot(token = BOT_TOKEN_HERE)
 
 first = True
 second = False
